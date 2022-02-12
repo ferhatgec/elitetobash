@@ -5,7 +5,7 @@
 ```rs
 required_version is 0.1
 
-set ProjectName as "elitetopy"
+set ProjectName as "elitetobash"
 set HOME        as env "HOME"
 
 
